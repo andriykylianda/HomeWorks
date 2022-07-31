@@ -1,0 +1,14 @@
+let name = 'andriy';
+let lastName = 'kulianda';
+let group = 'js Fundamentals';
+let dateOfBirtrh = new Date('09-03-1999');
+let isMarried = false;
+console.log(typeof(name));
+console.log(typeof(lastName));
+console.log(typeof(group));
+console.log(typeof(dataOfBirtrh));
+console.log(typeof(isMarried));
+let lives = undefined;
+let homeAddress = null;
+console.log(typeof(lives));
+ console.log(typeof(homeAddress));
